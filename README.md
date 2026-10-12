@@ -12,4 +12,4 @@ Legal documentation and support pages for the Health Freak mobile app.
 
 Health Freak is an AI-powered ingredient scanner that helps conscious consumers make informed food choices through holistic health principles.
 
-Contact: support@healthfreak.io
+Contact: tmulder3@gmail.com
